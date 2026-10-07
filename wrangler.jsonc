@@ -1,0 +1,16 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "cloudnav",
+  "pages_build_output_dir": "dist",
+  "compatibility_date": "2026-01-01",
+  "compatibility_flags": ["nodejs_compat"],
+  "kv_namespaces": [
+    {
+      "binding": "CLOUDNAV_KV",
+      "id": "f544517032674f5f9548dbdc48a7df0a"
+    }
+  ],
+  "vars": {
+    "PASSWORD": "DUuXYRtVv6zhDfdSJqgwjCDmmw4J"
+  }
+}
